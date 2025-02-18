@@ -1,0 +1,36 @@
+<text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 UNTtite%20(1.3).xsd" xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEI">
+<front>
+<pb n="I" ed="gammelslawsoftexas" /><pb ed="unknown" n="I" />
+<titlePage>
+<docTitle>
+<titlePart type="main"><b>THE L<smcap>AWS OF</smcap> T<smcap>EXAS</smcap> 1822-1897</b></titlePart>
+</docTitle>
+<titlePart type="desc"><i>Austin&#8217;s Colonization Law and Contract; Mexican Constitution of 1824; Federal Colonization. Law; Colonization Laws of Coahuila and Texas; Colonization Law of State of Tamau<pc force="weak">-</pc><lb break="no" />lipas; Fredonian Declaration of Independence; Laws and Decrees, with Constitution of Coahuila and Texas; San Felipe Convention; Journals of the Consultation; Proceedings of the General Council; Goliad Declaration of Independence; Journals of the Convention at Washington; Ordinances and Decrees of the Consultation; Declaration of Independence; Constitution of the Repub<pc force="weak">-</pc><lb break="no" />lic; Laws, General and Special, of the Republic; Annexation Reso<pc force="weak">-</pc><lb break="no" />lution of the United States; Ratification of the same by Texas; Constitution of the United States; Constitutions of the State of Texas, with all the Laws, General and Special, passed thereunder, including Ordinances, Decrees, and Res<pc force="weak">-</pc><lb break="no" />olutions, with the Constitution of the Confederate States and the Reconstruction Acts of Congress.</i></titlePart>
+<byline>COMPILED AND ARRANGED BY <docAuthor>H. P. N. GAMMEL</docAuthor> OF AUSTIN</byline>
+<byline>WITH AN INTRODUCTION BY <docAuthor>C. W. RAINES</docAuthor>.</byline>
+<titlePart type="volume"><b>VOLUME III.</b></titlePart>
+<docImprint>AUSTIN: T<smcap>HE</smcap> G<smcap>AMMEL</smcap> B<smcap>OOK</smcap> C<smcap>OMPANY</smcap>.</docImprint>
+<docDate>1898</docDate>
+</titlePage>
+<pb n="II" ed="gammelslawsoftexas" /><pb ed="unknown" n="II" />
+<pb n="III" ed="gammelslawsoftexas" /><pb ed="unknown" n="III" />
+<div1 type="contents">
+<head type="main"><b>CONTENTS.</b></head>
+<p>Page..</p>
+<p>Second Legislature, General Laws, 1848...................... <ref>1</ref></p>
+<p>Second Legislature, Special Laws, 1848.................... <ref>327</ref></p>
+<p>Third Legislature, General Laws, 1850..................... <ref>439</ref></p>
+<p>Third Legislature, Special Laws, 1850..................... <ref>671</ref></p>
+<p>Third Legislature, General and Special Laws, 1850......... <ref>783</ref></p>
+<p>Third Legislature, General and Special Laws, 1850......... <ref>829</ref></p>
+<p>Fourth Legislature, General Laws, 1852.................... <ref>879</ref></p>
+<p>Fourth Legislature, Special Laws, 1852................... <ref>1033</ref></p>
+<p>Fourth Legislature, Second Session, General Laws, 1853... <ref>1285</ref></p>
+<p>Fourth Legislature, Second Session, Special Laws, 1853... <ref>1355</ref></p>
+<p>Fifth Legislature, General Laws, 1854.................... <ref>1445</ref></p>
+</div1>
+</front>
+<body>
+<p>Body content follows in Chapter_1-326.xml</p>
+</body>
+</text>
